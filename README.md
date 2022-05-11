@@ -1,3 +1,3 @@
 # website personal portfolio
 
-https://edward-zhang-1.github.io/website/
+https://edward-zha.github.io/website/
