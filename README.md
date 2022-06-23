@@ -1,7 +1,3 @@
-# website
+# website personal portfolio
 
-This is a begining project to create a website
-
-## subheader
-
-hello, this is another edit
+https://edward-zha.github.io/website/
